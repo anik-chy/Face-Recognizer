@@ -8,7 +8,7 @@ It is a hardware project implemented on a Raspberry PI
 * Greets its known faces and asks for the information from unknown people
 * Automatically learns
 
-# To run it u have to install
+# To run it you have to install
   * python 2.7
   * cv2
   * numpy
